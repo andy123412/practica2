@@ -1,0 +1,17 @@
+h1 {
+    color: aqua;
+    text-align: center;
+}
+h2 {
+    color: blue;
+    text-align: center;
+
+}
+p {
+    color: brown;
+    text-align: initial;
+}
+body {
+    background-color: chartreuse;
+    font-family: Arial, sans-serif;
+}
